@@ -5,3 +5,4 @@ using presentation slides by adding screenshots and annotating them. sikuli-slid
 users to automate GUIs and produce a live screenshot by screenshot tutorials without having to write code.
 
 For more info visit [the project website](http://slides.sikuli.org).
+
